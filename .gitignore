@@ -1,0 +1,10 @@
+node_modules/
+jspm_packages/
+docs/
+dist/
+tmp/
+.idea/
+gh-pages
+gh-pages/*
+demo/lib/
+test/lib/
