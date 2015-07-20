@@ -94,7 +94,7 @@
     "promisescript": "~1.1.0",
     "request": "^2.58.0",
     "resolve-url": "~0.2.1",
-    "rx": "^2.5.2",
+    "rx": "^2.5.3",
     "rx-node": "^1.0.1",
     "select2": "~3.5.2-browserify",
     "simple-modal": "~0.1.4",
