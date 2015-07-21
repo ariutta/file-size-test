@@ -1,6 +1,6 @@
 {
   "name": "file-size-test",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Test file size for browserify bundles.",
   "main": "./lib/main.js",
   "engines": {
